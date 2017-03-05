@@ -7,7 +7,7 @@ This is my website so that I can sell Foodys.
 ![Meatball](/yuna-homepage/Meatball.jpg)<BR/>This is a meatball as a bear!|![Grape](/yuna-homepage/Grape.jpg)<BR/>This is a grape as a cat!
 ![Cupcake](/yuna-homepage/Cupcake.jpg)<BR/>This is a Cupcake as a cat!|![Dorito](/yuna-homepage/Dorito.jpg)<BR/>This is a dorito as a dog!
 
-If you want to buy one of these please contact yuna@suteki.co.uk
+If you want to buy one of these please contact yuna@suteki.co.uk on email! :)
 
 
 
