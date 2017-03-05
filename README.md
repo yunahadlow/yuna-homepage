@@ -9,7 +9,7 @@ This is my website so that I can sell Foodys.
 
 If you want to buy one of these please contact yuna@suteki.co.uk on email! :)
 
-[here](/yuna-homepage/prices.html)
+click [here](/yuna-homepage/prices.html) to see the prices and what you can get!
 
 
 
