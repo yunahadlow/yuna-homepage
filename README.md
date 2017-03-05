@@ -3,6 +3,7 @@
 This is my website so that I can sell Foodys.
 
 ![Candy Corn](/yuna-homepage/Candy%20Corn.jpg)
+This is a Candy Corn.
 ![Taco](/yuna-homepage/Taco.jpg)
 ![Raspberry](/yuna-homepage/Raspberry.jpg)
 ![Ketchup](/yuna-homepage/Ketchup.jpg)
