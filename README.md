@@ -1,4 +1,3 @@
-# yuna-homepage
-Yuna's Homepage
+# Foody websiite
 
 This is my website so that I can sell Foodys.
