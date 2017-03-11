@@ -6,7 +6,7 @@ This is my website so that I can sell Foodys.
 ![Raspberry](/yuna-homepage/Raspberry.jpg)<BR/>This is a rasberry as a bird!|![Ketchup](/yuna-homepage/Ketchup.jpg)<BR/>This is a splodge of ketchup as a pheonix!
 ![Meatball](/yuna-homepage/Meatball.jpg)<BR/>This is a meatball as a bear!|![Grape](/yuna-homepage/Grape.jpg)<BR/>This is a grape as a cat!
 ![Cupcake](/yuna-homepage/Cupcake.jpg)<BR/>This is a Cupcake as a cat!|![Dorito](/yuna-homepage/Dorito.jpg)<BR/>This is a dorito as a dog!
-![Cereal](/yuna-homepage/Cereal.jpg)<BR/>This is cereal as a bunny!|![Brownie](/yuna-homepage/Brownie.jpg)<BR/>This is a brownie as a bear!
+![Cereal](/yuna-homepage/Cupcake.jpg)<BR/>This is a Cereal as a bunny!|![Brownie](/yuna-homepage/Dorito.jpg)<BR/>This is a brownie as a bear!
 
 
 
